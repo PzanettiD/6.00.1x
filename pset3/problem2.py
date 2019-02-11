@@ -13,4 +13,3 @@ def getGuessedWord(secretWord, lettersGuessed):
             result += char
     return result
         
-print(getGuessedWord('apple', ['e', 'i', 'k', 'p', 'r', 's']))

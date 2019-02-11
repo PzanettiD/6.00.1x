@@ -16,4 +16,3 @@ def isWordGuessed(secretWord, lettersGuessed):
             return False
     return True
      
-print(isWordGuessed('durian', ['h', 'a', 'c', 'd', 'i', 'm', 'n', 'r', 't', 'u']))
