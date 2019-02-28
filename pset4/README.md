@@ -55,9 +55,7 @@ A game consists of playing multiple hands. We need to implement one final functi
 ## Problem 7 - You and your Computer:
 Write a function that re-implements that of the Problem 6,but adding the capability to allow the computer to play
 
-## Certificate:
 
-![Certificate](https://i.imgur.com/DJtSNHO.jpg)
 
 
 
