@@ -53,4 +53,12 @@ A game consists of playing multiple hands. We need to implement one final functi
 	- If the user inputs anything else, tell them their input was invalid.
 
 ## Problem 7 - You and your Computer:
-Write a function that re-implements that of the Problem 6,but adding the capability to allow the computer to play.   
+Write a function that re-implements that of the Problem 6,but adding the capability to allow the computer to play
+
+## Certificate:
+
+![Certificate](https://i.imgur.com/DJtSNHO.jpg)
+
+
+
+.   
