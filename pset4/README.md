@@ -34,6 +34,7 @@ You'll need to implement the helper calculateHandlen function, which takes a han
 
 ## Problem 5 - Playing a Hand:
 Implement a function that allows the user to play one hand, as follows:
+
 	- The hand is displayed.
 	- The user may input a word or a single period (the string ".") to indicate they're done playing.
 	- Invalid words are rejected, and a message is displayed asking the user to choose another word until they enter a valid word or "."
